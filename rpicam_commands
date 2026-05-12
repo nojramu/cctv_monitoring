@@ -1,0 +1,15 @@
+rpicam-hello --list-cameras - view all available camera
+
+rpicam-hello - A basic camera preview application to verify hardware and focus.
+
+rpicam-still - A comprehensive application for capturing high-resolution still images in various formats.
+
+rpicam-vid - An application for recording video files using hardware encoding or software libraries.
+
+rpicam-jpeg -A lightweight, high-speed alternative to rpicam-still specifically for JPEG capture.
+
+rpicam-raw - A tool for capturing raw, unprocessed Bayer data directly from the camera sensor.
+
+rpicam-apps-version - Displays the version information of the installed camera application suite.
+
+rpicam-hello -t 0 - Indefinite preview
